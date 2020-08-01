@@ -8,13 +8,13 @@ Backup / shared windows terminal settings.
 
 Requires patched nerd font to be installed in Windows.
 
-- [Roboto Mono Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+-[Roboto Mono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases)
 
 ### Commands
 
 Run the following commands as administrator in a command prompt.
 
-```
+```shell
 cd C:\stuff
 
 git clone git@github.com:dsnn/windows-terminal-settings.git
