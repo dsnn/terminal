@@ -12,17 +12,6 @@ Requires patched nerd font to be installed in Windows.
 
 ### Todo
 
-Add keybindings
-
-```json
-  "keybindings": [
-    { "command": "nextTab", "keys": ["ctrl+alt+l"] },
-    { "command": "prevTab", "keys": ["ctrl+alt+h"] },
-    { "command": "closePane", "keys": ["ctrl+q"] },
-    { "command": "newTab", "keys": ["ctrl+n"] }
-  ]
-```
-
 ### Commands
 
 Run the following commands as administrator in a command prompt.

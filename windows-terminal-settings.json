@@ -116,6 +116,10 @@
         "splitMode": "duplicate"
       },
       "keys": "alt+shift+d"
-    }
+    },
+    { "command": "nextTab", "keys": ["ctrl+alt+l"] },
+    { "command": "prevTab", "keys": ["ctrl+alt+h"] },
+    { "command": "closePane", "keys": ["ctrl+q"] },
+    { "command": "newTab", "keys": ["ctrl+n"] }
   ]
 }
