@@ -80,7 +80,8 @@
     { "command": "nextTab", "keys": ["ctrl+alt+l"] },
     { "command": "prevTab", "keys": ["ctrl+alt+h"] },
     { "command": "closePane", "keys": ["ctrl+alt+q"] },
-    { "command": "newTab", "keys": ["ctrl+alt+n"] },
+    { "command": "newTab", "keys": ["ctrl+alt+p"] },
+    { "command": { "action": "newTab", "index": 3 }, "keys": "ctrl+alt+n" },
 
     // Panes
     {
