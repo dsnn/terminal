@@ -21,7 +21,7 @@ cd C:\stuff
 
 git clone git@github.com:dsnn/windows-terminal-settings.git
 
-cd C:\Users\<USER_NAME>\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\
+cd C:\Users\dsn\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\
 
 copy settings.json settings.json.bak
 del settings.json
