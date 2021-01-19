@@ -14,14 +14,14 @@ Requires patched nerd font to be installed in Windows.
 
 ### Commands
 
-Run the following commands as administrator in a command prompt.
+Update user and run install.bat to automatically install settings, or:
 
 ```shell
 cd C:\stuff
 
 git clone git@github.com:dsnn/windows-terminal-settings.git
 
-cd C:\Users\<USER_NAME>\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\
+cd C:\Users\dsn\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\
 
 copy settings.json settings.json.bak
 del settings.json

@@ -83,6 +83,9 @@
     { "command": "newTab", "keys": ["ctrl+alt+p"] },
     { "command": { "action": "newTab", "index": 3 }, "keys": "ctrl+alt+n" },
 
+    // Window
+    { "command": "toggleFullscreen", "keys": "ctrl+alt+f" },
+
     // Panes
     {
       "command": { "action": "splitPane", "split": "vertical" },
