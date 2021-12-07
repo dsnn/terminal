@@ -35,7 +35,7 @@
         "name": "Ubuntu",
         "source": "Windows.Terminal.Wsl",
         "fontFace": "RobotoMono NF",
-        "fontSize": 10,
+        "fontSize": 9,
         "startingDirectory": "//wsl$/Ubuntu/home/dsn",
         "colorScheme": "Campbell"
       }
