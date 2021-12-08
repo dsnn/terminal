@@ -83,11 +83,11 @@
 
     // Panes
     {
-      "command": { "action": "splitPane", "split": "vertical" },
+      "command": { "action": "splitPane", "split": "vertical", "index": 2 },
       "keys": "alt+shift+v"
     },
     {
-      "command": { "action": "splitPane", "split": "horizontal" },
+      "command": { "action": "splitPane", "split": "horizontal", "index": 2 },
       "keys": "alt+shift+s"
     },
     {
