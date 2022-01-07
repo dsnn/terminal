@@ -30,7 +30,7 @@
         "source": "Windows.Terminal.Wsl",
         "fontFace": "RobotoMono NF",
         "fontSize": 9,
-        "startingDirectory": "//wsl$/Ubuntu/home/dsn",
+        "startingDirectory": "/home/dsn",
         "colorScheme": "Campbell"
       },
       {
